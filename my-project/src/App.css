@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+#root {
+  display: flex;
+}
+
+.currency {
+  margin: 5px 5px;
+}
+
+.exchange {
+  margin: 50px;
+  height: 20vh;
+  align-items: center;
+  border-radius: 30px;
+}
